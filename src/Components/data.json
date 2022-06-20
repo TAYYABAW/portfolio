@@ -1,0 +1,107 @@
+{
+  "name": "Muhammad Tayyab",
+  "image": "/me.png",
+  "profession": "React JS/React Native developer",
+  "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
+  "about": "I am a React JS/React Native developer who loves to design and develop beautiful websites and Mobile Apps. I have been coding for over half year and enjoying every part of my journey.",
+  "website": "",
+  "skills": [
+    {
+      "src": "RLogo",
+      "name": "React",
+      "link": "https://reactjs.org/"
+    },
+    {
+      "src": "NLogo",
+      "name": "Next",
+      "link": "https://nextjs.org/"
+    },
+    {
+      "src": "TLogo",
+      "name": "Typescript",
+      "link": "https://www.typescriptlang.org/"
+    },
+    {
+      "src": "WLogo",
+      "name": "Thirdweb",
+      "link": "https://thirdweb.com"
+    },
+    {
+      "src": "../../Assets/logos/tailwind.svg",
+      "name": "Tailwind",
+      "link": "https://tailwindcss.com/"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Dexify",
+      "image": "https://res.cloudinary.com/didkcszrq/image/upload/v1646014704/Frame_1_cglafw.png",
+      "about": "Front-End of a Crypto Market Place",
+      "tech": ["React", "Tailwind CSS"],
+      "links": {
+        "GitHub": "https://github.com/TAYYABAW/Dexify",
+        "Live": "https://dexify-43e27.web.app"
+      },
+      "role": "Lead developer"
+    },
+    {
+      "name": "Yetubit",
+      "image": "../Assets/projects/react-next.js-snips.png",
+      "about": "Front-End of a P2P Market.",
+      "tech": ["React", "Bootstrap", "Firebase", "Redux"],
+      "links": {
+        "GitHub": "https://github.com/TAYYABAW/yetubit"
+
+      },
+      "role": "Lead developer"
+    },
+    {
+      "name": "Netstorm",
+      "image": "../Assets/projects/faucetli.png",
+      "about": "Front-End of a NFT collection website",
+      "tech": ["React", "Web3.js", "Typescript"],
+      "links": {
+        "GitHub": "https://github.com/Kira272921/faucetli",
+        "Live": "https://www.producthunt.com/posts/faucetli"
+      },
+      "role": "Lead developer"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub",
+      "icon": "github.svg",
+      "link": "https://github.com/avneesh0612"
+    },
+    {
+      "name": "Twitter",
+      "icon": "twitter.svg",
+      "link": "https://twitter.com/avneesh0612"
+    },
+    {
+      "name": "Hashnode",
+      "icon": "hashnode.svg",
+      "link": "https://blog.avneesh.tech"
+    },
+    {
+      "name": "Showwcase",
+      "icon": "showwcase.svg",
+      "link": "https://www.showwcase.com/avneesh"
+    },
+    {
+      "name": "Instagram",
+      "icon": "instagram.svg",
+      "link": "https://instagram.com/avneesh.codes"
+    },
+    {
+      "name": "Mail me",
+      "icon": "mail.svg",
+      "link": "mailto:avneeshagarwal0612@gmail.com"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "linkedin.svg",
+      "link": "https://www.linkedin.com/in/avneesh0612"
+    }
+  ]
+}
