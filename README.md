@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Portfolio.</h1>
 
-![Tayyab's portfolio banner](https://github.com/TAYYABAW/portfolio/blob/main/docs/Dexify.png)
+<!-- ![Tayyab's portfolio banner](https://github.com/TAYYABAW/portfolio/blob/main/docs/Dexify.png) -->
 <!-- https://github.com/avneesh0612/portfolio/blob/main/LICENSE -->
 
 <!-- ### ✨ [Demo](https://www.avneesh.tech/) -->
